@@ -11,13 +11,12 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 theme                  : minimal-mistakes-jekyll
-plugins                : jekyll-include-cache
-remote_theme           : "mmistakes/minimal-mistakes@4.19.1"
+# remote_theme           : "mmistakes/minimal-mistakes@4.19.1"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kiran Personal Blog"
+title                    : "Kiran"
 title_separator          : "-"
 name                     : "Kiran"
 description              : "Personal Blog"
