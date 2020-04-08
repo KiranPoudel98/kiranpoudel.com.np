@@ -3,6 +3,28 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2020-04-04 13:46:32 +0545
 categories: jekyll update
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
+
+# uid: 'TM10'
+# title: 3 questions you need to ask about mvp
+# description: Everyone is talking about building Minimum Viable Product (MVP). But have you understood it?
+# keywords: 'building mvp'
+# featuredImage: '../../src/assets/images/blogs/3-questions-about-mvp/3-questions-about-mvp.png'
+# slug: '3-questions-about-mvp'
+# category: 'Startup'
+# tags: ['startup']
+# author: Pradip
+# type: 'blog-post'
+# toc: true
+# featured: false
+# comments: true
+# share: true
+# date: '2018-12-24'
+# last_modified_at: '2019-09-20'
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
