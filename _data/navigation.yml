@@ -1,52 +1,50 @@
 # main links links
 main:
-  - title: "About"
+  - title: "About Me"
     url: /about/
   - title: "Blog"
     url: /year-archive/
-  - title: "Categories"
-    url: /categories/
-  - title: "Zero Investment"
-    url: /zero_investment_startup/intro/
+  # - title: "Categories"
+  #   url: /categories/
 
-git-sidebar:
-  - title: "Parent Page A"
-    children:
-      - title: "Interesting git commands"
-        url: /interesting-git-commands-part-1/
-      - title: "Child Page A2"
-        url: /
-      - title: "Child Page A3"
-        url: /
-      - title: "Child Page A4"
-        url: /
-  - title: "Parent Page B"
-    children:
-      - title: "Child Page B1"
-        url: /
-      - title: "Child Page B2"
-        url: /
-      - title: "Child Page B3"
-        url: /
-      - title: "Child Page B4"
-        url: /
-      - title: "Child Page B5"
-        url: /
+# git-sidebar:
+#   - title: "Parent Page A"
+#     children:
+#       - title: "Interesting git commands"
+#         url: /interesting-git-commands-part-1/
+#       - title: "Child Page A2"
+#         url: /
+#       - title: "Child Page A3"
+#         url: /
+#       - title: "Child Page A4"
+#         url: /
+#   - title: "Parent Page B"
+#     children:
+#       - title: "Child Page B1"
+#         url: /
+#       - title: "Child Page B2"
+#         url: /
+#       - title: "Child Page B3"
+#         url: /
+#       - title: "Child Page B4"
+#         url: /
+#       - title: "Child Page B5"
+#         url: /
 
-zero-investment-sidebar:
-  - title: "01: Introduction to zero investment startup"
-    url: /zero_investment_startup/intro/
-  - title: "02: Co-working spaces"
-    url: /zero_investment_startup/co-working-spaces/
-  - title: "03: Remote Culture"
-    url: /zero_investment_startup/remote-culture/
-  - title: "04: Commission based resources"
-    url: /zero_investment_startup/commission-based-resources/
-  - title: "05: Remote First Communication"
-    url: /zero_investment_startup/communication/
-  - title: "06: Tools"
-    url: /zero_investment_startup/tools/
-  - title: "07: Marketing"
-    url: /zero_investment_startup/marketing/
-  - title: "08: Agile"
-    url: /zero_investment_startup/agile/
+# zero-investment-sidebar:
+#   - title: "01: Introduction to zero investment startup"
+#     url: /zero_investment_startup/intro/
+#   - title: "02: Co-working spaces"
+#     url: /zero_investment_startup/co-working-spaces/
+#   - title: "03: Remote Culture"
+#     url: /zero_investment_startup/remote-culture/
+#   - title: "04: Commission based resources"
+#     url: /zero_investment_startup/commission-based-resources/
+#   - title: "05: Remote First Communication"
+#     url: /zero_investment_startup/communication/
+#   - title: "06: Tools"
+#     url: /zero_investment_startup/tools/
+#   - title: "07: Marketing"
+#     url: /zero_investment_startup/marketing/
+#   - title: "08: Agile"
+#     url: /zero_investment_startup/agile/

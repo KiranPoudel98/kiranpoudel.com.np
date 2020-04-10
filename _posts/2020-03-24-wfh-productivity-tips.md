@@ -1,7 +1,7 @@
 ---
 title: Ways to increase productivity while working from home
 categories: remote-work
-excerpt: It could be quite challenging to work from home without serious commitment and right set of skills. Here are some effective tips that can help you.
+excerpt: Here are some effective ways to increase your productivity while working from home.
 toc: true
 classes: wide
 header:
@@ -11,6 +11,10 @@ tags:
 date: 2020-03-24T09:42:12+05:45
 last_modified_at:
 ---
+
+This post was originally posted on [Truemark](https://truemark.com.np/blog/work-from-home-productivity-tips/#)
+
+<b>--------------------------------------------------------------------------------------------------------------------------------</b>
 
 Working from home isn’t a new thing at all. It is gradually becoming common nowadays. And with the ongoing COVID-19 infection and lockdown situation, everyone is currently working from home.<br />
 Working from home has many benefits, so more and more people and companies are adopting remote work philosophies.
