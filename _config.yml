@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kiran"
+title                    : "Kiran Personal Blog"
 title_separator          : "-"
-name                     : &name "Kiran"
-subtitle                 : "By Kiran" # site tagline that appears below site title in masthead
-description              : &description "Programming blog maintained by full stack software engineer Prakash Poudel. Visit to read about ruby, rails, js, node, socket.io, chef, docker, phaser, agile, scrum, best coding practices and many more.."
-url                      : https://www.sharmaprakash.com.np # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Kiran"
+# subtitle                 : "" # site tagline that appears below site title in masthead
+# description              : &description "Kiran Personal Blog"
+url                      : https://www.kiranpdl.com.np # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "KiranPoudel98/kiranpoudel.com.np"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # logo                     : "/assets/images/truemark-logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 # masthead_title           : "Programming Notes" # overrides the website title displayed in the masthead, use " " for no title
@@ -32,7 +32,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    # shortname            : "prakash014" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "kiranpdl" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -85,9 +85,9 @@ social:
 
 # Analytics
 analytics:
-  # provider               : "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
-    # tracking_id          : "UA-68384218-1"
+    tracking_id          : 
     anonymize_ip         : # true, false (default)
 
 
@@ -95,59 +95,59 @@ analytics:
 author:
   name             : Kiran
   # avatar           : "/assets/images/0.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  # bio              : "Founder / Full stack software engineer at Truemark Technology."
-  # location         : "Kathmandu, Nepal"
-  # email            : *email
+  bio              : "A Simple Guy who loves travelling" 
+  location         : "Kathmandu, Nepal"
+  email            : ""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      # url: 
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/poudelprakash"
+      # url: 
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      # url: 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
-      # url: "https://www.linkedin.com/in/poudelprakash/"
+      # url: 
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      # url: 
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/poudelprakash"
+      url: ""
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
-      # url: "https://www.linkedin.com/in/poudelprakash/"
+      url: ""
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/poudelprakash/"
+      url: ""
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/poudelprakash"
+      url: ""
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      # url:
+      url: ""
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
-      # url:
+      url: ""
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
-    - label: "Terms & policies"
-      icon: "fas fa-fw fa-link"
-      url: "/terms"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://www.sharmaprakash.com.np"
+      url: ""
+    # - label: "Terms & policies"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "/terms"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "kiranpdl.com.np"
 
 
 # Reading Files

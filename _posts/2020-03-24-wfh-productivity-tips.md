@@ -8,6 +8,7 @@ header:
   overlay_image: /assets/images/posts/wfh-productivity-tips/header.jpg
   overlay_filter: rgba(72, 64, 64, 0.5)
 tags:
+comments: true
 date: 2020-03-24T09:42:12+05:45
 last_modified_at:
 ---
