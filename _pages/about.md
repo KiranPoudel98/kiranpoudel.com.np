@@ -3,38 +3,23 @@ layout: single
 author_profile: true
 permalink: /about/
 title: "About"
-excerpt: "I am full stack engineer from Nepal."
+excerpt: "I am a Content Writer from Nepal."
 modified: 2020-03-24T13:26:37+05:45
 ---
 
-I am founder/full stack software engineer at Truemark technology. I have special interest in e-commerce, analytics and startups.
+Just A Simple Guy.
 
-I enjoy both developing and playing games.
+I Love Travelling
 
 | **Address:** | Kathmandu, Nepal |
-| **Hobbies:** | blogging, playing chess, game development, reading books |
-| **Education:** | **Bachelors of Engineering in Computer Science** from [ACEM(TU)](http://acem.edu.np/){: rel="nofollow"}{:target="\_blank"} |
+| **Hobbies:** | Listening Music, Travelling |
+| **Education:** | **Bachelors of Information Management (BIM)** from [College of Applied Business](http://www.cab.edu.np/){: rel="nofollow"}{:target="\_blank"} |
 
-## Things I may write about in this blog:
+## Things I may write about in this blog
 
-- [Zero Investment Startup](/zero_investment_startup/intro/)
+- SEO
+- Business
 - Remote Working
-- Rails/Ruby
-  1. Test Driven Development(TDD)
-- Javascript/Jquery
-  1. Game development(without using framework)
-  2. Game development(with Phaser framework)
-  3. node.js
-  4. Real time webapps with socket.io
-  5. TDD
-- Frontend
-  1. HTML/CSS
-  2. Angularjs(1 & 2)
-  3. Emberjs
-- Coding Philosophies 1. Design Principles 2. Best Practices
-- Linux
-- Git
-- Devops
-  1. Nginx
-  2. Phusion Passenger
-  3. Chef, Docker
+- Technology
+- Marketing
+- I don't know. I may write about anything. Depends on me.

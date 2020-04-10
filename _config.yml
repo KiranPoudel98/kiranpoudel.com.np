@@ -29,6 +29,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 # masthead_title           : "Programming Notes" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
+favicon                  : '/assets/images'
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:

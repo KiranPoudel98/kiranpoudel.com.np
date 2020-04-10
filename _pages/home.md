@@ -5,7 +5,7 @@ date:
 title: " "
 header:
   overlay_color: "#5e616c"
-  overlay_image: assets/images/prakash-featured.jpg
+  # overlay_image: assets/images/.jpg
   cta_label: 
   cta_url: 
   caption: 
@@ -13,10 +13,9 @@ excerpt: '<br /><br />'
 feature_row:
 
 announce-twitter:
-  - excerpt: 'Follow me for my latest updates &nbsp; [<i class="fa fa-twitter"></i> @poudelprakash](https://twitter.com/poudelprakash
-  ){: .btn .btn--twitter}{:target="_blank"}'
+  - excerpt: 'Follow me for my latest updates &nbsp; [<i class="fa fa-twitter"></i> ](https://twitter.com/){: .btn .btn--twitter}{:target="_blank"}'
 intro:
-  - excerpt: '**I am full stack engineer from Nepal.**<br />I frequently write down new things I have learned into my blog'
+  - excerpt: '**I am from a beatiful country Nepal.**<br />Follow this website for amazing content.'
 
 ---
 {% include feature_row id="announce-twitter" type="center" %}
