@@ -6,6 +6,7 @@ keywords: how to run a great virtual meeting
 toc: true
 classes: wide
 header:
+  teaser: /assets/images/posts/how-to-run-a-great-virtual-meeting-wfh/virtual-meeting.jpg
   overlay_image: /assets/images/posts/how-to-run-a-great-virtual-meeting-wfh/virtual-meeting.jpg
   overlay_filter: rgba(72, 64, 64, 0.5)
 tags: work-from-home

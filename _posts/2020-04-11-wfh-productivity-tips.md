@@ -6,6 +6,7 @@ keywords: increase productivity working from home
 toc: true
 classes: wide
 header:
+  teaser: /assets/images/posts/ways-to-increase-productivity-while-working-from-home/working-from-home.jpg
   overlay_image: /assets/images/posts/ways-to-increase-productivity-while-working-from-home/working-from-home.jpg
   overlay_filter: rgba(72, 64, 64, 0.5)
 tags: work-from-home

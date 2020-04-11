@@ -7,6 +7,7 @@ toc: true
 toc_sticky: true
 classes: wide
 header:
+  teaser: /assets/images/posts/how-to-convince-executives-to-outsource/convincing.jpg
   overlay_image: /assets/images/posts/how-to-convince-executives-to-outsource/convincing.jpg
   overlay_filter: rgba(72, 64, 64, 0.5)
 tags: business
