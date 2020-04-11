@@ -6,6 +6,7 @@ keywords: why seo is needed
 toc: true
 classes: wide
 header:
+  teaser: /assets/images/posts/how-big-should-your-team-be-before-hiring-a-manager/team.jpg
   overlay_image: /assets/images/posts/how-big-should-your-team-be-before-hiring-a-manager/team.jpg
   overlay_filter: rgba(72, 64, 64, 0.5)
 tags: business
