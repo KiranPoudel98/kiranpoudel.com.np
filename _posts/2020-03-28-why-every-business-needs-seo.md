@@ -35,8 +35,6 @@ Black hat SEO optimizes a website breaking the guidelines set by the search engi
 
 ## How SEO works?
 
-![HowSEOWorks](../../src/assets/images/blogs/why-every-business-needs-seo/SEO-works.jpg "How SEO Works")
-
 We can say that every business wants their website to rank higher in search engine results pages. Every business mostly focuses on Google results pages as it is popular and the most used search engine on the Internet. SEO focuses on improving your website speed, performance, keywords, titles, etc. that helps to index your website on search engine results pages.
 
 To rank higher, one needs to follow the guidelines of search engines. So you need to understand the guidelines and how search engines rank your website. Search engines provide the best results for the users. They provide high-quality content, valuable, and most importantly the pages that are searched by the users. For this, the search engine focuses on keywords, titles, content, and so on.
@@ -89,8 +87,6 @@ Off-page SEO refers to those activities that are done away from your website to 
 
 ## How SEO can help you
 
-![NeedofSEO](../../src/assets/images/blogs/why-every-business-needs-seo/need-of-seo.jpg "Need of SEO")
-
 Every business needs to consider investing in SEO optimization. If you want to increase organic traffic on your website, then you should optimize your website. If you worry about your traffic, then you should start optimizing the website using SEO tools. Let’s see the importance of SEO that helps to increase traffic.
 
 **High return on investment (ROI)**
@@ -131,7 +127,9 @@ Implementing a good SEO strategy will help you to outrank your competitors. Impl
 
 You are now aware of the fact how powerful SEO can be if implemented correctly. Every business whether small or large or even the startups should start implementing SEO strategies. If you want to have long-term benefits then you should seriously think about it. You are losing money and customers every day by not implementing SEO strategies.
 
-At Truemark, we have SEO experts who will help you optimize your website. So, if you want to work with us, please feel free to contact us.
+At Truemark, we have SEO experts who will help you to optimize your website. So if you want to work with us, please feel free to contact through this link: [Truemark](https://truemark.com.np/)
+
+Hope this article helped you.
 
 **References:** [LyfeMarketing](https://www.lyfemarketing.com/blog/what-is-seo-and-how-it-works/), [Unamo](https://unamo.com/blog/seo/30-important-google-ranking-factors-beginner-know), [CrazyEgg](https://www.crazyegg.com/blog/seo/black-hat-vs-white-hat-seo/)
 

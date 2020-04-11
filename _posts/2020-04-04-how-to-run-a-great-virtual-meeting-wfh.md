@@ -119,6 +119,8 @@ Always end the meeting with a Thank You. You need to appreciate everyone for giv
 
 To make a virtual meeting successful, you need to focus on these etiquettes. You need to focus on the activities that should be done prior, during and after the meeting. Every virtual meeting starts with how you prepare yourself, then it comes to what value you bring to the meeting and how you handle the situation. If you succeed at this then, you will excel to run your business by parallelly leading your employees during the hard times.
 
-If you have any suggestions regarding the article, please comment below. Hope this article helped you.
+Hope this article helped you.
+
+<!-- If you have any suggestions regarding the article, please comment below. Hope this article helped you. -->
 
 **References:** [Forbes](https://www.forbes.com/sites/josephliu/2020/03/17/virtual-meeting-tips/#7856d0c77208)

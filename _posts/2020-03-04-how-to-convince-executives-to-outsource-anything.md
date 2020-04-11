@@ -65,7 +65,7 @@ Likewise, any organization either new or old will hesitate to outsource for the 
 
   Such expenses may not incur in the first place if you decide to outsource your projects. You can save and invest in places where your organization lacks and need improvement.
 
-![ReduceCost](../../src/assets/images/blogs/how-to-convince-your-executives-to-outsource/cost-reduction.jpg "Reduce Cost")
+<!-- ![ReduceCost](../../src/assets/images/blogs/how-to-convince-your-executives-to-outsource/cost-reduction.jpg "Reduce Cost") -->
 
 - **Give business a competitive advantage**
 
@@ -89,7 +89,7 @@ Here are the signs showing the right time to start outsourcing.
 
   You start to think that you need to do something to grow your business. You have projects and every time you are focused on projects. So you are not getting enough time to focus on growing your business. You can start outsourcing your projects so that you can focus on growing your business.
 
-![GrowthofBusiness](../../src/assets/images/blogs/how-to-convince-your-executives-to-outsource/growth-of-business.jpg "Growth of Business")
+<!-- ![GrowthofBusiness](../../src/assets/images/blogs/how-to-convince-your-executives-to-outsource/growth-of-business.jpg "Growth of Business") -->
 
 - **Despise certain works**
 
@@ -107,7 +107,7 @@ Here are the signs showing the right time to start outsourcing.
 
 ## Where to look for outsourcing?
 
-![SocialMediaPlatforms](../../src/assets/images/blogs/how-to-convince-your-executives-to-outsource/social-media-platforms.jpg "Social Media Platforms")
+<!-- ![SocialMediaPlatforms](../../src/assets/images/blogs/how-to-convince-your-executives-to-outsource/social-media-platforms.jpg "Social Media Platforms") -->
 
 You are thinking of outsourcing but you don’t have any idea where to look for or start from. There are many organizations looking for skilled and experienced human resources as well as projects. For such organizations, you can provide human resources and projects. You can search such organizations on
 
@@ -123,7 +123,7 @@ You are thinking of outsourcing but you don’t have any idea where to look for 
 
 ## How to convince executives to outsource?
 
-![SocialMediaPlatforms](../../src/assets/images/blogs/how-to-convince-your-executives-to-outsource/convince-executives.jpg "Social Media Platforms")
+<!-- ![SocialMediaPlatforms](../../src/assets/images/blogs/how-to-convince-your-executives-to-outsource/convince-executives.jpg "Social Media Platforms") -->
 
 You are ready but is your organization ready?
 
@@ -169,6 +169,8 @@ You know how outsourcing benefits your organization. So, do your research and be
 
 We, at Truemark, try to give the message that while selecting the company to outsource, you should be extremely careful. Instead of going with the cheapest option, we suggest you go for the company that values code and quality and has a proven history of great work. We are a team with skills and experience. We won’t compromise on quality and we are fully committed to customer satisfaction.
 
-If you want to work with us, please feel free to contact us.
+If you want to work with us, please feel free to contact us through this link: [Truemark](https://truemark.com.np/)
+
+Hope this article helped you.
 
 **References:** [Medium](https://medium.com/@gigster/how-to-convince-your-boss-to-use-outsourcing-cbb9731b464c)  
