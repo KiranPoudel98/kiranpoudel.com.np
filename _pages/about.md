@@ -11,6 +11,8 @@ Just A Simple Guy.
 
 I Love Travelling
 
+Content Writer at [Truemark](https://truemark.com.np/)
+
 | **Address:** | Kathmandu, Nepal |
 | **Hobbies:** | Listening Music, Travelling |
 | **Education:** | **Bachelors of Information Management (BIM)** from [College of Applied Business](http://www.cab.edu.np/){: rel="nofollow"}{:target="\_blank"} |
