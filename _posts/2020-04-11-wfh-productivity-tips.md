@@ -98,8 +98,10 @@ Your health is most important. If you have good mental and physical balance, the
 
 ## Conclusion
 
-If you have just started to work remotely, then you may feel uncomfortable working because you are not accustomed to working from home. You have to work in a different environment. If you follow the above-listed ways, then you will be more productive when working from home. Hope this article helps you.
+If you have just started to work remotely, then you may feel uncomfortable working because you are not accustomed to working from home. You have to work in a different environment. If you follow the above-listed ways, then you will be more productive when working from home.
 
-If you have any suggestions regarding the article or if you have any productivity tips, then please comment below.
+Hope this article helped you.
+
+<!-- If you have any suggestions regarding the article or if you have any productivity tips, then please comment below. -->
 
 References: [Inc.](https://www.inc.com/john-rampton/15-ways-to-increase-productivity-at-work.html){: rel="nofollow"}{:target="\_blank"}

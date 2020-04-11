@@ -25,8 +25,6 @@ So, let’s explore the topic in detail.
 
 ## How to determine the best size for a team?
 
-![BestTeamSize](../../src/assets/images/blogs/how-big-should-your-team-be-before-hiring-a-manager/best-team-size.jpg 'Best Team Size')
-
 Teamwork makes the impossible possible through sheer hard work and coordination. But, it is still difficult to know how many members are ideal for teamwork. Teamwork is the backbone of every organization. Teamwork and team size depends on the project and task. Mostly, the team size depends on three variables.
 
 - **Goals**
@@ -50,8 +48,6 @@ Team members in a small group builds trust quicker than the larger groups. Since
 Another advantage of a small team is that information flows a lot faster within the team. Team members feel more responsible. They know more about the fellow team members and know what tasks they are doing. If any problem arises then team members can easily communicate and take part in solving the problem. Quick and better decisions can be taken in a smaller team. Different strategies can be planned and implemented quickly. So in this regard, smaller teams are more preferred than the larger teams.
 
 ## Why a manager is important for business?
-
-![ImportanceofManager](../../src/assets/images/blogs/how-big-should-your-team-be-before-hiring-a-manager/importance-of-manager.jpg 'Importance of Manager')
 
 Every business needs a manager to look after the organizational management. Without proper management, there is no organization. A manager is one of the great assets an organization can have. He/she is the one having a significant role in planning and making the best decisions for the organization. So, let’s see the importance of the manager for the business.
 
@@ -105,8 +101,6 @@ Every business needs a manager to look after the organizational management. With
 
 ## When to hire a manager?
 
-![TimetoHireaManager](../../src/assets/images/blogs/how-big-should-your-team-be-before-hiring-a-manager/time-to-hire-manager.jpg 'Time to Hire a Manager')
-
 Once you establish a business, you need people to work with you. And you need a manager to coordinate and maintain discipline in the organization. The manager is key to a successful growing business. So, let’s see when to hire a manager.
 
 - **Employees to manage**
@@ -159,8 +153,6 @@ When you start to hire more employees in the organization, then you take the dec
 
 Some hire a manager when the team or employee size is 10 or 15 or 20 or 50 or even more. It depends on the organization when to hire a manager. The team size does not matter but the managers should be skilled enough to handle a team. Some of the characteristics that a manager should possess are:
 
-![ManagerialSkills](../../src/assets/images/blogs/how-big-should-your-team-be-before-hiring-a-manager/managerial-skills.jpg 'Managerial Skills')
-
 - **Leadership:** The manager should be able to lead the employees effectively. He/she should be able to lead them to achieve organizational goals and objectives.
 
 - **Experience:** The manager should have experience in managing and handling the organization and employees. He/she should have experience working in a professional environment.
@@ -179,9 +171,9 @@ The owner must look at the needs of the organization. If the organization needs 
 
 The main point to remember is that it is entirely up to the organization to hire a manager when the appropriate time comes. Some organizations may hire a manager when a team is small and some may hire when a team is large. The decision to hire a manager lies with the authority. When they feel like the team needs a manager to lead them then hiring a manager is a good choice for the organization.
 
-If you need a manager who is capable, reliable, and responsible, then Truemark can provide you the manager that you are looking for. So, if you want to work with us, please contact us.
+If you need a manager who is capable, reliable, and responsible, then Truemark can provide you the manager that you are looking for. So, if you want to work with us, please feel free to contact us through this link: [Truemark](https://truemark.com.np/)
 
-If you have any suggestions, please feel free to contact us.
+Hope this article helped you.
 
 **References:** [Chron](https://smallbusiness.chron.com/good-management-essential-workplace-42982.html), [TheWorkAtTheMwWoman](https://www.theworkathomewoman.com/hire-manager/)
 
