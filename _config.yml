@@ -18,22 +18,22 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en-US"
 title                    : "Kiran"
 title_separator          : "-"
-name                     : &name "Kiran"
-subtitle                 : "By Kiran" # site tagline that appears below site title in masthead
-description              : &description "Programming blog maintained by full stack software engineer Prakash Poudel. Visit to read about ruby, rails, js, node, socket.io, chef, docker, phaser, agile, scrum, best coding practices and many more.."
-url                      : https://www.sharmaprakash.com.np # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Kiran"
+# subtitle                 : "" # site tagline that appears below site title in masthead
+description              : "Knowledge is power. Always seek knowledge. Get the latest updated content about SEO, marketing, business, and many more weekly."
+url                      : kiranpdl.com.np # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "KiranPoudel98/kiranpoudel.com.np"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# logo                     : "/assets/images/truemark-logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-# masthead_title           : "Programming Notes" # overrides the website title displayed in the masthead, use " " for no title
+logo                     : "/assets/images/favicon.ico" 
+# masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 favicon                  : '/assets/images'
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    # shortname            : "prakash014" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    # shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -71,7 +71,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  # username               : &twitter "poudelprakash"
+  # username               : &twitter ""
 facebook:
   username               :
   app_id                 :
@@ -95,45 +95,45 @@ analytics:
 # Site Author
 author:
   name             : Kiran
-  # avatar           : "/assets/images/0.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  # bio              : "Founder / Full stack software engineer at Truemark Technology."
-  # location         : "Kathmandu, Nepal"
+  avatar           : "/assets/images/author/kiran.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Founder / Full stack software engineer at Truemark Technology."
+  location         : "Kathmandu, Nepal"
   # email            : *email
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:kiranpoudel1998@gmail.com
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/poudelprakash"
+      # url: ""
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      # url: ""
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
-      # url: "https://www.linkedin.com/in/poudelprakash/"
+      url: "https://www.linkedin.com/in/kiran-poudel-a23774194/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      # url: ""
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/poudelprakash"
+      # url: ""
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
-      # url: "https://www.linkedin.com/in/poudelprakash/"
+      url: "https://www.linkedin.com/in/kiran-poudel-a23774194/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/poudelprakash/"
+      # url: ""
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/poudelprakash"
+      url: ""
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -148,7 +148,7 @@ footer:
       url: "/terms"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://www.sharmaprakash.com.np"
+      url: "kiranpdl.com.np"
 
 
 # Reading Files
@@ -289,3 +289,5 @@ defaults:
       comments: true
       share: true
       related: true
+
+      
