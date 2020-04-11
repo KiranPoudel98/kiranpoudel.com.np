@@ -11,7 +11,7 @@ Just A Simple Guy.
 
 I Love Travelling
 
-Content Writer at [Truemark](https://truemark.com.np/)
+Currently Working at [Truemark](https://truemark.com.np/)
 
 | **Address:** | Kathmandu, Nepal |
 | **Hobbies:** | Listening Music, Travelling |
