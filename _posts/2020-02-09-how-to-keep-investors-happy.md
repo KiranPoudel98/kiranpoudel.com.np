@@ -15,7 +15,7 @@ date: 2020-02-09
 last_modified_at: 2020-02-09
 ---
 
-This post was originally posted on [Truemark](https://truemark.com.np/blog/keeping-investors-happy/#)
+This article was first posted on [Truemark](https://truemark.com.np/blog/keeping-investors-happy/#)
 
 <b>--------------------------------------------------------------------------------------------------------------------------------</b>
 

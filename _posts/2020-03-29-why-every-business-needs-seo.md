@@ -14,7 +14,7 @@ date: 2020-03-29
 last_modified_at: 2020-03-29
 ---
 
-This post was originally posted on [Truemark](https://truemark.com.np/blog/why-every-business-needs-seo/#)
+This article was first posted on [Truemark](https://truemark.com.np/blog/why-every-business-needs-seo/#)
 
 <b>--------------------------------------------------------------------------------------------------------------------------------</b>
 

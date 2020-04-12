@@ -14,7 +14,7 @@ date: 2020-04-05
 last_modified_at: 2020-04-05
 ---
 
-This post was originally posted on [Truemark](https://truemark.com.np/blog/virtual-meeting-wfh/#)
+This article was first posted on [Truemark](https://truemark.com.np/blog/virtual-meeting-wfh/#)
 
 <b>--------------------------------------------------------------------------------------------------------------------------------</b>
 
