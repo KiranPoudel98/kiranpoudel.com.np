@@ -15,7 +15,9 @@ date: 2020-02-23
 last_modified_at: 2020-02-23
 ---
 
-This article was first posted on [Truemark](https://truemark.com.np/blog/why-do-people-neglect-maintenance/#)
+<b>--------------------------------------------------------------------------------------------------------------------------------</b>
+
+**NOTE:** This article was first posted on [Truemark](https://truemark.com.np/blog/why-do-people-neglect-maintenance/#)
 
 <b>--------------------------------------------------------------------------------------------------------------------------------</b>
 

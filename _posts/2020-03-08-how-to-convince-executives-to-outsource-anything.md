@@ -15,7 +15,9 @@ date: 2020-03-08
 last_modified_at: 2020-03-08
 ---
 
-This article was first posted on [Truemark](https://truemark.com.np/blog/convince-executives-to-outsource)
+<b>--------------------------------------------------------------------------------------------------------------------------------</b>
+
+**NOTE:** This article was first posted on [Truemark](https://truemark.com.np/blog/convince-executives-to-outsource)
 
 <b>--------------------------------------------------------------------------------------------------------------------------------</b>
 

@@ -15,7 +15,9 @@ date: 2020-02-16
 last_modified_at: 2020-02-16
 ---
 
-This article was first posted on [Truemark](https://truemark.com.np/blog/technical-co-founder-decision/#)
+<b>--------------------------------------------------------------------------------------------------------------------------------</b>
+
+**NOTE:** This article was first posted on [Truemark](https://truemark.com.np/blog/technical-co-founder-decision/#)
 
 <b>--------------------------------------------------------------------------------------------------------------------------------</b>
 
