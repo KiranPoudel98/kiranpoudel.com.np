@@ -1,7 +1,7 @@
 ---
 title: How Big Should Your Team Be Before Hiring A Manager?
 categories: business
-excerpt: Most startups in tech or any other industry don’t remain open with their doors at the end of the first year. So, the need for the manager is twice as much for these startup entrepreneurial ventures.
+excerpt: Relationship between your team and a manager.
 keywords: why seo is needed
 toc: true
 classes: wide
@@ -10,8 +10,8 @@ header:
   overlay_image: /assets/images/posts/how-big-should-your-team-be-before-hiring-a-manager/team.jpg
   overlay_filter: rgba(72, 64, 64, 0.5)
 tags: business
-date: 2020-03-21
-last_modified_at: 2020-03-21
+date: 2020-03-22
+last_modified_at: 2020-03-22
 ---
 
 This post was originally posted on [Truemark](https://truemark.com.np/blog/team-size-before-hiring-a-manager)

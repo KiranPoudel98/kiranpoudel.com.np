@@ -10,8 +10,8 @@ header:
   overlay_image: /assets/images/posts/why-every-business-needs-seo/seo.jpg
   overlay_filter: rgba(72, 64, 64, 0.5)
 tags: SEO
-date: 2020-03-28
-last_modified_at: 2020-03-28
+date: 2020-03-29
+last_modified_at: 2020-03-29
 ---
 
 This post was originally posted on [Truemark](https://truemark.com.np/blog/why-every-business-needs-seo/#)
