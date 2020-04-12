@@ -1,7 +1,7 @@
 ---
 title: How To Convince Executives To Outsource Anything?
 categories: business
-excerpt: Having difficulty to convince your executives to outsource? Here are some effective ways to convince your executives to outsource anything.
+excerpt: Here are some effective ways to convince your executives to outsource anything.
 keywords: how to convince executives to outsource
 toc: true
 toc_sticky: true
@@ -11,8 +11,8 @@ header:
   overlay_image: /assets/images/posts/how-to-convince-executives-to-outsource/convincing.jpg
   overlay_filter: rgba(72, 64, 64, 0.5)
 tags: business
-date: 2020-03-04
-last_modified_at: 2020-03-04
+date: 2020-03-08
+last_modified_at: 2020-03-08
 ---
 
 This post was originally posted on [Truemark](https://truemark.com.np/blog/convince-executives-to-outsource)

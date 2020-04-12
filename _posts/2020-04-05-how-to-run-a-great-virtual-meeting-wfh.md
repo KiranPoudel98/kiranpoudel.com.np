@@ -1,7 +1,7 @@
 ---
 title: How To Run A Great Virtual Meeting While Working From Home?
 categories: remote-work
-excerpt: Virtual meetings have become an integral part of our business in today's world. So,here are some smart ways to make the virtual meeting more professional.
+excerpt: Here are some smart ways to make the virtual meeting more professional.
 keywords: how to run a great virtual meeting
 toc: true
 classes: wide
@@ -10,8 +10,8 @@ header:
   overlay_image: /assets/images/posts/how-to-run-a-great-virtual-meeting-wfh/virtual-meeting.jpg
   overlay_filter: rgba(72, 64, 64, 0.5)
 tags: work-from-home
-date: 2020-04-04
-last_modified_at: 2020-04-04
+date: 2020-04-05
+last_modified_at: 2020-04-05
 ---
 
 This post was originally posted on [Truemark](https://truemark.com.np/blog/virtual-meeting-wfh/#)

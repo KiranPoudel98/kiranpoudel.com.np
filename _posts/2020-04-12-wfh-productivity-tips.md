@@ -10,8 +10,8 @@ header:
   overlay_image: /assets/images/posts/ways-to-increase-productivity-while-working-from-home/working-from-home.jpg
   overlay_filter: rgba(72, 64, 64, 0.5)
 tags: work-from-home
-date: 2020-04-11
-last_modified_at: 2020-04-11
+date: 2020-04-12
+last_modified_at: 2020-04-12
 ---
 
 This post was originally posted on [Truemark](https://truemark.com.np/blog/work-from-home-productivity-tips/#)
