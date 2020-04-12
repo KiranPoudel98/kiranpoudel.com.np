@@ -15,7 +15,7 @@ date: 2020-03-01
 last_modified_at: 2020-03-01
 ---
 
-This post was originally posted on [Truemark](https://truemark.com.np/blog/product-manager-vs-project-manager)
+This article was first posted on [Truemark](https://truemark.com.np/blog/product-manager-vs-project-manager)
 
 <b>--------------------------------------------------------------------------------------------------------------------------------</b>
 
