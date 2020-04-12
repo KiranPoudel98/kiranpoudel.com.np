@@ -14,7 +14,9 @@ date: 2020-03-22
 last_modified_at: 2020-03-22
 ---
 
-This article was first posted on [Truemark](https://truemark.com.np/blog/team-size-before-hiring-a-manager)
+<b>--------------------------------------------------------------------------------------------------------------------------------</b>
+
+**NOTE:** This article was first posted on [Truemark](https://truemark.com.np/blog/team-size-before-hiring-a-manager)
 
 <b>--------------------------------------------------------------------------------------------------------------------------------</b>
 

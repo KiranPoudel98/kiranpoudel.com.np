@@ -14,7 +14,9 @@ date: 2020-04-12
 last_modified_at: 2020-04-12
 ---
 
-This article was first posted on [Truemark](https://truemark.com.np/blog/work-from-home-productivity-tips/#)
+<b>--------------------------------------------------------------------------------------------------------------------------------</b>
+
+**NOTE:** This article was first posted on [Truemark](https://truemark.com.np/blog/work-from-home-productivity-tips/#)
 
 <b>--------------------------------------------------------------------------------------------------------------------------------</b>
 
