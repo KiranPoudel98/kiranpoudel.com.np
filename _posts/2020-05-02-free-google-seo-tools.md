@@ -1,5 +1,5 @@
 ---
-title: 9 Free Must-Use SEO Tools By Google
+title: 8 Free Must-Use SEO Tools By Google
 categories: SEO
 excerpt: Here are 9 free SEO tools by Google that everyone must use.
 keywords: free seo tools, free google seo tools
@@ -30,7 +30,7 @@ But, you need to create content around keywords. Because keywords are the bridge
 
 So, let’s see some of the keyword research tools.
 
-### [Google Keyword Planner](https://ads.google.com/home/tools/keyword-planner/)
+### 1. [Google Keyword Planner](https://ads.google.com/home/tools/keyword-planner/)
 
 Google, the most popular search engine right now, has developed various free SEO tools and one of them is Google Keyword Planner. Almost everyone uses Google if they want their queries to be answered. So, what could be better than Google products to get the right keywords for your content?
 
@@ -40,7 +40,7 @@ You must use Google Keyword Planner to get the right keywords for your content.
 
 <!-- ![GoogleKeywordPlanner](/../assets/images/post/free-google-seo-tools/google-keyword-planner.jpg "Google Keyword Planner") -->
 
-### [Google Trends](https://trends.google.com/trends/?geo=US)
+### 2. [Google Trends](https://trends.google.com/trends/?geo=US)
 
 Another tool from Google is Google Trends. It shows the topic and keywords trending on Google. You can even search according to region and languages. So, this is the perfect SEO tool for those who want to target the users of a specific region and language.
 
@@ -48,7 +48,7 @@ You just need to enter a keyword or a topic to see the popularity of the keyword
 
 If you want to search for a topic or keywords and see its popularity, this tool is perfect for you.
 
-### [Google Search](https://www.google.com/) 
+### 3. [Google Search](https://www.google.com/) 
 
 Another tool by Google that is used by every person on the Internet. It is the most used tool provided by Google right now. Whenever a user goes to Google, the first thing a user does is search for a particular topic using a particular keyword. And that place is Google Search.
 
@@ -58,7 +58,7 @@ You just need to type a keyword on Google’s search field and see the suggestio
 
 Now, comes the analytics tools that are very crucial to your SEO campaigns. Not only content and keywords, but you also need to give priority to your website’s traffic, speed, and performance.
  
-### [Google Analytics](https://accounts.google.com/ServiceLogin/webreauth?service=analytics&passive=1209600&continue=https%3A%2F%2Fanalytics.google.com%2Fanalytics%2Fweb%2F%23&followup=https%3A%2F%2Fanalytics.google.com%2Fanalytics%2Fweb%2F&flowName=GlifWebSignIn&flowEntry=ServiceLogin)
+### 4. [Google Analytics](https://accounts.google.com/ServiceLogin/webreauth?service=analytics&passive=1209600&continue=https%3A%2F%2Fanalytics.google.com%2Fanalytics%2Fweb%2F%23&followup=https%3A%2F%2Fanalytics.google.com%2Fanalytics%2Fweb%2F&flowName=GlifWebSignIn&flowEntry=ServiceLogin)
 
 It helps to analyze the traffic coming to your website and analyze the user behavior on your website. 
 
@@ -72,7 +72,7 @@ Some of the benefits of using Google Analytics are:
 
 You must use this powerful tool at all costs.
 
-### [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+### 5. [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 
 No one likes to visit a website that loads very slow. Users might not be as patient as you think. Everybody wants the best nowadays. And more importantly, Google ranks a website based on website speed as well. Google ranks websites that provide the best user experience. So, it is very crucial to enhance your website speed.
 
@@ -80,7 +80,7 @@ But, you don’t have to worry about that. Google has a very special tool for th
 
 You just need to enter your website URL and it will analyze your website. It analyzes the speed of your website. It shows the speed of your website for mobile and desktop platforms. It not only analyzes the website speed, but also gives valuable suggestions on improving your website’s speed.
 
-### [Mobile-Friendly Test](https://search.google.com/test/mobile-friendly)
+### 6. [Mobile-Friendly Test](https://search.google.com/test/mobile-friendly)
 
 Is your website mobile-friendly?
 
@@ -88,7 +88,7 @@ Because there are 3.5 billion mobile users in the world currently and this will 
 
 So, it is more important to build a mobile-friendly website. To check whether your website is mobile-friendly or not, you can use the Mobile-Friendly Test tool. 
 
-### [Google Search Console](https://search.google.com/search-console/about)
+### 7. [Google Search Console](https://search.google.com/search-console/about)
 
 Google Search Console is the best tool by Google (My opinion). If you want to analyze your website’s overall performance on the Google search engine, then you must use this tool.
 
@@ -105,7 +105,7 @@ Bu sure to use this tool.
  
 ## Other Additional Tools
 
-### [Google My Business](https://www.google.com/intl/en_us/business/)
+### 8. [Google My Business](https://www.google.com/intl/en_us/business/)
 
 Last but not least, another great tool by Google is Google My Business. It helps to boost your business presence on Google search engine. You just need to provide detailed information about your business and help users on Google to find your business. 
 
