@@ -42,7 +42,7 @@ You must use Google Keyword Planner to get the right keywords for your content.
 
 ### 2. [Google Trends](https://trends.google.com/trends/?geo=US)
 
-Another tool from Google is Google Trends. It shows the topic and keywords trending on Google. You can even search according to region and languages. So, this is the perfect SEO tool for those who want to target the users of a specific region and language.
+Another tool from Google is Google Trends. It shows the topic and keywords trending on Google. You can even search according to region. So, this is the perfect SEO tool for those who want to target the users of a specific region and sub-region.
 
 You just need to enter a keyword or a topic to see the popularity of the keywords or a topic over a specific time. You will be amazed by the data it displays. You can compare keywords or a topic, see the related queries, and many more.
 
