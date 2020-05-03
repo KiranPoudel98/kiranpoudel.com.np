@@ -1,17 +1,17 @@
 ---
 title: 8 Free Must-Use SEO Tools By Google
 categories: SEO
-excerpt: Here are 9 free SEO tools by Google that everyone must use.
+excerpt: Here are 8 free SEO tools by Google that everyone must use.
 keywords: free seo tools, free google seo tools
 toc: true
 classes: wide
 header:
-  teaser: /assets/images/posts/free-google-seo-tools/free-seo-tools.png
-  overlay_image: /assets/images/posts/free-google-seo-tools/free-seo-tools.png
+  teaser: /assets/images/posts/8-free-seo-tools-by-google/free-seo-tools.png
+  overlay_image: /assets/images/posts/8-free-seo-tools-by-google/free-seo-tools.png
   overlay_filter: rgba(72, 64, 64, 0.5)
 tags: SEO Tools
 date: 2020-05-02
-last_modified_at: 2020-05-02
+last_modified_at: 2020-05-03
 ---
 
 <b>--------------------------------------------------------------------------------------------------------------------------------</b>
@@ -38,7 +38,7 @@ You can use Google Keyword Planner if you don’t want to use premium tools like
 
 You must use Google Keyword Planner to get the right keywords for your content.
 
-<!-- ![GoogleKeywordPlanner](/../assets/images/post/free-google-seo-tools/google-keyword-planner.jpg "Google Keyword Planner") -->
+![GoogleKeywordPlanner](/assets/images/posts/8-free-seo-tools-by-google/google-keyword-planner.jpg "Google Keyword Planner")
 
 ### 2. [Google Trends](https://trends.google.com/trends/?geo=US)
 
@@ -48,11 +48,15 @@ You just need to enter a keyword or a topic to see the popularity of the keyword
 
 If you want to search for a topic or keywords and see its popularity, this tool is perfect for you.
 
+![GoogleTrends](/assets/images/posts/8-free-seo-tools-by-google/google-trends.jpg "Google Trends")
+
 ### 3. [Google Search](https://www.google.com/) 
 
 Another tool by Google that is used by every person on the Internet. It is the most used tool provided by Google right now. Whenever a user goes to Google, the first thing a user does is search for a particular topic using a particular keyword. And that place is Google Search.
 
 You just need to type a keyword on Google’s search field and see the suggestions it displays. You can get the right keywords or get your next topic from Google Search. 
+
+![GoogleSearch](/assets/images/posts/8-free-seo-tools-by-google/google-search.png "Google Search")
 
 ## Analytics Tools
 
@@ -72,6 +76,8 @@ Some of the benefits of using Google Analytics are:
 
 You must use this powerful tool at all costs.
 
+![GoogleAnalytics](/assets/images/posts/8-free-seo-tools-by-google/google-analytics.png "Google Analytics")
+
 ### 5. [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 
 No one likes to visit a website that loads very slow. Users might not be as patient as you think. Everybody wants the best nowadays. And more importantly, Google ranks a website based on website speed as well. Google ranks websites that provide the best user experience. So, it is very crucial to enhance your website speed.
@@ -80,13 +86,17 @@ But, you don’t have to worry about that. Google has a very special tool for th
 
 You just need to enter your website URL and it will analyze your website. It analyzes the speed of your website. It shows the speed of your website for mobile and desktop platforms. It not only analyzes the website speed, but also gives valuable suggestions on improving your website’s speed.
 
+![PageSpeedInsights](/assets/images/posts/8-free-seo-tools-by-google/google-page-speed-insights.png "PageSpeed Insights")
+
 ### 6. [Mobile-Friendly Test](https://search.google.com/test/mobile-friendly)
 
 Is your website mobile-friendly?
 
-Because there are 3.5 billion mobile users in the world currently and this will increase even more in the future. And mobile devices now account for half of the web traffic globally.
+Because there are [3.5 billion mobile users](https://www.bankmycell.com/blog/how-many-phones-are-in-the-world) in the world currently and this will increase even more in the future. And mobile devices now account for [half of the web traffic globally](https://quoracreative.com/article/mobile-marketing-statistics).
 
 So, it is more important to build a mobile-friendly website. To check whether your website is mobile-friendly or not, you can use the Mobile-Friendly Test tool. 
+
+![Mobile-FriendlyTest](/assets/images/posts/8-free-seo-tools-by-google/google-mobile-friendly-tes.png "Mobile-Friendly Test")
 
 ### 7. [Google Search Console](https://search.google.com/search-console/about)
 
@@ -98,10 +108,12 @@ It has many benefits like:
 - It displays the detailed information on your keywords like which keywords have been shown on Google, which keywords are performing best, and many more.
 - It displays detailed information on your webpages, content like which pages are frequently appearing on Google, total clicks, total impressions, and many more.
 - It displays from which countries your users are viewing your websites.
-It helps to fix indexing problems.
+- It helps to fix indexing problems.
 - And, many more.
 
 Bu sure to use this tool.
+
+![GoogleSearchConsole](/assets/images/posts/8-free-seo-tools-by-google/google-search-console.png "Google Search Console")
  
 ## Other Additional Tools
 
@@ -115,9 +127,11 @@ We all know Google’s user base. The more visible your business on Google, the 
 
 If you also want your business to appear on Google just like shown below, then you must use Google My Business.
 
+![GoogleMyBusiness](/assets/images/posts/8-free-seo-tools-by-google/google-my-business.png "Google My Business")
+
 **In Conclusion**
 
-These are the 9 free Google SEO tools that everyone must use. These tools will surely help you to optimize your website.
+These are the 8 free Google SEO tools that everyone must use. These tools will surely help you to optimize your website.
 
 Hope this article helped you. 
 
