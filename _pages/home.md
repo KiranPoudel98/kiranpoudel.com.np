@@ -15,7 +15,7 @@ feature_row:
 announce-twitter:
   - excerpt: 'Follow me for my latest updates &nbsp; [<i class="fa fa-twitter"></i> ](https://twitter.com/){: .btn .btn--twitter}{:target="_blank"}'
 intro:
-  - excerpt: '**I am from a beatiful country Nepal.**<br />Follow this website to het amazing content.'
+  - excerpt: '**I am from a beatiful country Nepal.**<br />Follow this website to get amazing content.'
 
 ---
 {% include feature_row id="announce-twitter" type="center" %}
