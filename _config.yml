@@ -10,30 +10,30 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
+theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kiran"
+title                    : "Personal Blog"
 title_separator          : "-"
-name                     : "Kiran"
-# subtitle                 : "" # site tagline that appears below site title in masthead
-description              : "Knowledge is power. Always seek knowledge. Get the latest updated content about SEO, marketing, business, and many more weekly."
-url                      : kiranpdl.com.np # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "KiranPoudel98/kiranpoudel.com.np"
+subtitle                 : # site tagline that appears below site title in masthead
+name                     : "Anil Poudel"
+description              : "An amazing website."
+url                      : "https://www.poudelanil.com.np"
+baseurl                  : "/"
+repository               : "pdlanl/pdlanl.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/favicon.ico" 
-# masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : true # true, false (default)
+logo                     : "/assets/images/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+# breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
-favicon                  : '/assets/images'
+favicon                  : '/assets/images/favicon.ico'
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : "kirdel"
+    shortname            : "pdlanl" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -70,13 +70,13 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-# twitter:
-#   # username               : &twitter ""
-# facebook:
-#   username               :
-#   app_id                 :
-#   publisher              :
-# og_image                 : "/assets/images/bio-photo.jpg" # Open Graph/Twitter default site image
+twitter:
+  username               : pdlanl
+facebook:
+  username               : pdlanl
+  app_id                 : 655274245207073
+  publisher              :
+og_image                 : "/assets/images/88x88.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -86,69 +86,60 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-146151511-1"
+    tracking_id          :
     anonymize_ip         : # true, false (default)
 
 
 # Site Author
 author:
-  name             : Kiran
-  avatar           : "/assets/images/author/kiran.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Follow My Website To get Amazing Content"
+  name             : "Anil Poudel"
+  avatar           : "/assets/images/logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am an **amazing** person."
   location         : "Kathmandu, Nepal"
-  # email            : *email
+  email            : "anlpdl@yahoo.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:kiranpoudel1998@gmail.com
+      # url: mailto:anlpdl@yahoo.com
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://poudelanil.com.np"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: ""
+      url: "https://twitter.com/pdlanl"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: ""
+      url: "https://facebook.com/pdlanl"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-in"
-      url: "https://www.linkedin.com/in/kiran-poudel-a23774194/"
+      # url: "https://github.com/pdlanl"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: ""
+      url: "https://instagram.com/pdlanl"
 
 # Site Footer
 footer:
   links:
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   # url: ""
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-in"
-      url: "https://www.linkedin.com/in/kiran-poudel-a23774194/"
-    # - label: "Facebook"
-    #   icon: "fab fa-fw fa-facebook-square"
-    #   # url: ""
-    # - label: "GitHub"
-    #   icon: "fab fa-fw fa-github"
-    #   url: ""
-    # - label: "GitLab"
-    #   icon: "fab fa-fw fa-gitlab"
-    #   # url:
-    # - label: "Bitbucket"
-    #   icon: "fab fa-fw fa-bitbucket"
-    #   # url:
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   # url:
-    # - label: "Terms & policies"
-    #   icon: "fas fa-fw fa-link"
-    #   url: "/terms"
-    # - label: "Website"
-    #   icon: "fas fa-fw fa-link"
-    #   url: "kiranpdl.com.np"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/pdlanl"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/pdlanl"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/pdlanl"
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      url: "https://github.com/pdlanl"
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      # url:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/pdlanl"
 
 
 # Reading Files
@@ -229,6 +220,8 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-remote-theme
+  - jekyll-seo-tag
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -289,5 +282,3 @@ defaults:
       comments: true
       share: true
       related: true
-
-      

@@ -1,7 +1,8 @@
-{% assign author = page.author | default: page.authors[0] | default: site.author
-%} {% assign author = site.data.authors[author] | default: author %}
+{% assign author = page.author | default: page.authors[0] | default: site.author %}
+{% assign author = site.data.authors[author] | default: author %}
 
 <div itemscope itemtype="https://schema.org/Person">
+
   {% if author.avatar %}
     <div class="author__avatar">
       {% if author.home %}
@@ -16,9 +17,7 @@
 
   <div class="author__content">
     {% if author.home %}
-    <a href="{{ author_link }}"
-      ><h3 class="author__name" itemprop="name">{{ author.name }}</h3></a
-    >
+      <a href="{{ author_link }}"><h3 class="author__name" itemprop="name">{{ author.name }}</h3></a>
     {% else %}
       <h3 class="author__name" itemprop="name">{{ author.name }}</h3>
     {% endif %}
@@ -30,13 +29,7 @@
   </div>
 
   <div class="author__urls-wrapper">
-    <button class="btn btn--inverse">
-      {{
-        site.data.ui - text[site.locale].follow_label
-          | remove: ':'
-          | default: 'Follow'
-      }}
-    </button>
+    <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
     <ul class="author__urls social-icons">
       {% if author.location %}
         <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
@@ -256,19 +249,4 @@
       {% include author-profile-custom-links.html %}
     </ul>
   </div>
-
-  <script
-    async
-    src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
-  ></script>
-  <!-- Author Bottom -->
-  <!-- <ins
-    class="adsbygoogle"
-    style="display:inline-block;width:250px;height:250px"
-    data-ad-client="ca-pub-6416889815673976"
-    data-ad-slot="3419670722"
-  ></ins> -->
-  <script>
-    (adsbygoogle = window.adsbygoogle || []).push({});
-  </script>
 </div>

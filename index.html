@@ -1,37 +1,24 @@
 ---
+title: 'JS Developer'
 layout: splash
-title: 'Personal Blog'
+date: 2016-03-23T11:48:41-04:00
 header:
-  overlay_filter: rgba(0, 144, 212, 0.5)
-  overlay_image: assets/images/home/knowledge.jpg
-  actions:
-    - label: 'Explore'
-      url: '/year-archive/'
-excerpt: 'Knowledge Is Power. Always Seek Knowledge.'
+  overlay_color: '#000'
+  overlay_filter: '0.5'
+  overlay_image: /assets/images/site/keyboard-bg.jpg
+excerpt: 'I love where I live.'
 intro:
-  - excerpt: <b>Power Is Gained By Sharing Knowledge.</b>
+  - excerpt: '“Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live” ― John Woods'
 feature_row:
-  - image_path: /assets/images/posts/8-free-seo-tools-by-google/free-seo-tools.png
-    image_caption: 'SEO'
-    alt: 'google seo tools'
-    title: '8 Free Must-Use SEO Tools By Google'
-    excerpt: 'Here are 8 free SEO tools by Google that everyone must use.'
-    url: '/seo/free-google-seo-tools/'
-    btn_label: 'Read More'
-    btn_class: 'btn--primary align-center'  
+  - image_path: /assets/images/site/truemark.png
+    alt: 'placeholder image 2'
+    title: 'Developing a software?'
+    excerpt: 'With Truemark Technology you will be able to outsource your project without compromising on code quality.'
+    url: 'https://truemark.com.np'
+    btn_label: "Let's go"
+    btn_class: 'btn--danger'
 ---
 
-{% include feature_row id="intro" type="center" %}
-
-<h3 class="archive__subtitle" style="margin-bottom: 1em;">Featured Blogs</h3>
-{% include feature_row %}
-
-<h3 class="archive__subtitle">Recent Posts</h3>
-<div class="grid__wrapper home-archive" style="margin-top: 1em;">
-  {% for post in site.posts limit:3 %} {% include archive-single.html
-   %} {% endfor %}
-  <a href="/year-archive" class="btn btn--primary">View All Blogs</a>
-</div>
-
-<!-- <h3 class="archive__subtitle">Books I Recommend</h3>
-{% include feature_row id="amazon_books" %} -->
+{% include feature_row id="intro" type="center" %} {% include
+custom/recent-posts.html %} {% include feature_row type="left"
+%}
