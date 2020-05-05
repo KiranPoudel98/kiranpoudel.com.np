@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kiran Poudel"
 description              : "An amazing website."
-url                      : "http://kiranpdl.com.np/"
+url                      : kiranpdl.com.np
 baseurl                  : "/"
 repository               : "KiranPoudel98/kiranpoudel.com.np"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -102,10 +102,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:anlpdl@yahoo.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://poudelanil.com.np"
+      url: mailto:kiranpoudel1998@gmail.com
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/kiran-poudel-a23774194/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/pdlanl"
@@ -128,15 +128,15 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/pdlanl"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/pdlanl"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url: "https://github.com/pdlanl"
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/kiran-poudel-a23774194/"
+    # - label: "GitLab"
+    #   icon: "fab fa-fw fa-gitlab"
+    #   # url: "https://github.com/pdlanl"
+    # - label: "Bitbucket"
+    #   icon: "fab fa-fw fa-bitbucket"
+    #   # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/pdlanl"
