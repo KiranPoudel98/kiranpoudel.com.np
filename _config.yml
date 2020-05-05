@@ -21,8 +21,8 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kiran Poudel"
 description              : "An amazing website."
-url                      : http://kiranpdl.com.np/
-baseurl                  : "/"
+url                      : kiranpdl.com.np
+# baseurl                  : "/"
 repository               : "KiranPoudel98/kiranpoudel.com.np"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/favicon.ico" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
