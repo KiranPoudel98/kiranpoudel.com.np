@@ -20,7 +20,7 @@ title                    : "Kiran"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kiran Poudel"
-description              : "An amazing website."
+description              : "Knowledge is power. Always seek knowledge. Get the latest updated content about SEO, marketing, business, and many more."
 url                      : kiranpdl.com.np
 # baseurl                  : "/"
 repository               : "KiranPoudel98/kiranpoudel.com.np"
@@ -29,7 +29,7 @@ logo                     : "/assets/images/favicon.ico" # path of logo image to 
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
-favicon                  : '/assets/images/'
+favicon                  : "/assets/images/favicon.ico"
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
@@ -70,8 +70,8 @@ yandex_site_verification :
 naver_site_verification  :
 
 # # Social Sharing
-# twitter:
-#   # username               : pdlanl
+twitter:
+  username               : kiranpoudel96
 # facebook:
 #   username               : pdlanl
 #   app_id                 : 655274245207073
@@ -95,10 +95,10 @@ analytics:
 # Site Author
 author:
   name             : "Kira Poudel"
-  avatar           : "/assets/images/author/kiran.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/author/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Follow My Website To get Amazing Content"
   location         : "Kathmandu, Nepal"
-  email            : "kiranpoudel1998@gmail.com"
+  # email            : "kiranpoudel1998@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -108,38 +108,38 @@ author:
       url: "https://www.linkedin.com/in/kiran-poudel-a23774194/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/pdlanl"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/pdlanl"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/pdlanl"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/pdlanl"
+      url: "https://twitter.com/kiranpoudel96"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
+    #   # url: "https://facebook.com/kiran"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   # url: "https://github.com/kiran"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   # url: "https://instagram.com/kiran"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/pdlanl"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/pdlanl"
+      url: "https://twitter.com/kiranpoudel96"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
+    #   # url: "https://facebook.com/kiran"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/kiran-poudel-a23774194/"
     # - label: "GitLab"
     #   icon: "fab fa-fw fa-gitlab"
-    #   # url: "https://github.com/pdlanl"
+    #   # url: "https://github.com/kiran"
     # - label: "Bitbucket"
     #   icon: "fab fa-fw fa-bitbucket"
     #   # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/pdlanl"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   # url: "https://instagram.com/kiran"
 
 
 # Reading Files
