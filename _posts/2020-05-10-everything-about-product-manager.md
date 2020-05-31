@@ -14,25 +14,25 @@ header:
   overlay_filter: '0.5'
   overlay_image: /assets/images/posts/everything-about-product-manager/product-manager.jpg
   teaser: /assets/images/posts/everything-about-product-manager/product-manager.jpg
-date: 2020-05-09
-last_modified_at: 2020-05-09
+date: 2020-05-10
+last_modified_at: 2020-05-10
 ---
 
 <b>--------------------------------------------------------------------------------------------------------------------------------</b>
 
 ![ProductManager](/assets/images/posts/everything-about-product-manager/product-manager.jpg "Product Manager")
 
-Products are the lifeline of any business. Without products, there is no meaning of running a business. The sole purpose of any business is to provide products and services to the customer. But if there are no products to develop and services to offer, is there any meaning to start a business?
+Products are the **lifeline of any business.** Without products, there is no meaning of running a business. The sole purpose of any business is to provide products and services to the customer. But if there are no products to develop and services to offer, is there any meaning to start a business?
 
 And here the role of the product manager becomes very important. The product manager\'s main role is to plan, develop strategies, and create products that the customers want and fulfill their needs and solve their problems.
 
-The importance of product management is increasing rapidly since every business main goal is customer satisfaction. Providing quality products that fulfill their needs and requirements helps in satisfying the customers. It is the duty of the product managers to define what and when the product is to be built by the development team.
+The importance of product management is increasing rapidly since **every business main goal is customer satisfaction.** Providing quality products that fulfill their needs and requirements helps in satisfying the customers. It is the duty of the product managers to define what and when the product is to be built by the development team.
 
 Let’s understand in detail about the product manager and product management.
 
 ## What Is Product Management?
 
-Product management is a process of planning, forecasting, developing, and marketing a product throughout stages of the product life cycle. It also includes continuous improvement of the products. It guides the development team on how to develop a product that satisfies customers.
+Product management is a process of **planning, forecasting, developing, and marketing** a product throughout stages of the product life cycle. It also includes continuous improvement of the products. It guides the development team on how to develop a product that satisfies customers.
 
 Product management reduces the risk of failure since it involves thorough research and planning about the product. It involves the best way to develop a product and promote it in the market.
 
@@ -44,23 +44,23 @@ Let’s see some of the key roles of the product manager.
 
 - **Strategy**
   
-  The product managers are responsible for planning short-term as well as the long-term vision of the product life cycle. They are the ones responsible for planning the development process that fits with the business model. 
+  The product managers are responsible for planning **short-term as well as the long-term vision** of the product life cycle. They are the ones responsible for planning the development process that fits with the business model. 
   
   In this strategy phase, the product managers help team members to make strategic decisions that help in the product development phase. The product managers use different tools that help to simplify the planning process.
 
 - **Generate ideas**
   
-  Another role of product managers is to generate ideas. The role of product managers is to develop ideas. But there may be more than one idea, so their job is to analyze those ideas and select the best idea that fulfills the requirement and fit with the business model.
+  Another role of product managers is to generate ideas. But there may be more than one idea, so their job is to analyze those ideas and **select the best idea** that fulfills the requirement and fit with the business model.
 
 - **Features** 
   
-  Another role of the product managers is to analyze the features of the product. The product managers compare the features with the strategic goals and initiatives of the organization. 
+  Another role of the product managers is to analyze the features of the product. The product managers **compare the features with the strategic goals** and initiatives of the organization. 
   
   The product managers define the product’s features and instruct the development team to implement those features. They are involved in the development process so that the features are implemented properly.
 
 - **Product release** 
   
-  The product managers are also responsible for releasing the product. Before the release of the product in the market, the product managers test the product. If found any bugs and errors, the product managers tell the development team as soon as possible so the deadline is not missed. 
+  The product managers are also responsible for releasing the product. Before the release of the product in the market, the product managers **test the product**. If found any bugs and errors, the product managers tell the development team as soon as possible so the deadline is not missed. 
   
   The product managers must ensure that the product is free of bugs and ready to be launched in the market.
 
@@ -74,7 +74,7 @@ Other **additional roles and responsibilities** of the product managers are:
 
 - **Market analysis**
   
-  The product manager\'s job is to observe the market. The product managers identify the changes and trends in the market in order to adapt to the changes. The product managers must identify the customer needs and requirements.
+  The product manager\'s job is to **observe the market**. The product managers identify the changes and trends in the market in order to adapt to the changes. The product managers must identify the customer needs and requirements.
 
   ![MarketAnalysis](/assets/images/posts/everything-about-product-manager/market-analysis.jpg "Market Analysis")
 
@@ -84,7 +84,7 @@ Other **additional roles and responsibilities** of the product managers are:
 
 - **Customer needs definition**
   
-  The product managers communicate with the customer and identify their needs and requirements. Then the product managers develop plans that define the customer’s needs and requirements. As a result, the development team develops the product as planned. So, the product managers should estimate cost and schedule the software development process.
+  The product managers communicate with the customer and identify their needs and requirements. Then the product managers** develop plans that define the customer’s needs and requirements.** As a result, the development team develops the product as planned. So, the product managers should estimate cost and schedule the software development process.
 
 - **Requirements development** 
   
@@ -92,7 +92,7 @@ Other **additional roles and responsibilities** of the product managers are:
 
 - **Product roadmaps**
   
-  The product managers define goals, milestones, and deliverables for product development. Every plan and strategy involved in the product development process is developed by the product managers. 
+  The product managers define **goals, milestones, and deliverables** for product development. Every plan and strategy involved in the product development process is developed by the product managers. 
   
   Each phase of the development process must be documented and communicated to the development team, authority, and external stakeholders. The product roadmaps help us to know how the final product will look like, its features and functionalities, and how a product will grow.
 
@@ -114,7 +114,7 @@ Other **additional roles and responsibilities** of the product managers are:
 
 - **Monitor product results**
   
-  The product managers monitor product performance after the release of the product in the market. They collect information regarding revenue, market share, profit, etc. They also collect feedback from the customers regarding the performance of the product.
+  The product managers **monitor product performance** after the release of the product in the market. They collect information regarding revenue, market share, profit, etc. They also collect feedback from the customers regarding the performance of the product.
 
 - **Management reporting**
   
@@ -138,11 +138,11 @@ The product managers are an important asset of any organization. They are the on
 
 - **Align market needs with organizational goals**
   
-  The product managers ensure that the product is developed in such a way that fulfills the market needs. The product managers plan the best strategy that defines the organizational goals and objectives. The product must solve market problems as well as fulfills organizational goals and objectives. For this, they research the market closely, analyze the market needs and problems, and accordingly plan for the product development.
+  The product managers ensure that the product is developed in such a way that fulfills the market needs. The product managers **plan the best strategy** that defines the organizational goals and objectives. The product must solve market problems as well as fulfills organizational goals and objectives. For this, they research the market closely, analyze the market needs and problems, and accordingly plan for the product development.
 
 - **Authority**
   
-  The product managers have a certain authority that is delegated to them. They have the freedom to implement plans that do not violate the delegated authority. They monitor every activity starting from the product development process to product launching. But, they must not misuse their power and sincerely use delegated power for the betterment of the organization.
+  The product managers have a certain authority that is delegated to them. They have the freedom to implement plans that do not violate the delegated authority. They monitor every activity starting from the product development process to product launching. But, they **must not misuse their powe**r and sincerely use delegated power for the betterment of the organization.
 
 - **Reduces the risk of product failure**
   
@@ -158,7 +158,7 @@ The product managers are an important asset of any organization. They are the on
   
   The product manager’s responsibility is also to observe the changes in the market and help the organization to take appropriate actions to adapt to change. The product managers observe the market trends and plan to implement suitable trends in the product development process. 
   
-  Customers are also involved in the development process and this helps customers to change the requirement if needed. So, the product managers must implement the agile methodologies to implement the changes easily.
+  Customers are also involved in the development process and this helps customers to change the requirement if needed. So, the product managers must **implement the agile methodologies** to implement the changes easily.
 
 - **Process becomes easier**
   
@@ -172,7 +172,7 @@ Becoming a product manager is not so easy as it sounds. The product managers fac
 
 - **Responsible for failure**
   
-  The product managers and the development team become like a punching bag for the organization if the product fails to achieve its objectives and requirements. So, the product managers and their team must do their best in developing a product that meets its objectives and requirements. They must do their research and develop the product carefully. They must work carefully so that the image and reputation of the organization aren’t harmed.
+  The product managers and the development team become like a **punching bag for the organization** if the product fails to achieve its objectives and requirements. So, the product managers and their team must do their best in developing a product that meets its objectives and requirements. They must do their research and develop the product carefully. They must work carefully so that the image and reputation of the organization aren’t harmed.
 
 - **Tight schedule**
   
@@ -180,11 +180,11 @@ Becoming a product manager is not so easy as it sounds. The product managers fac
 
 - **Limited resources**
   
-  Another problem that the product managers face is they have to work with limited resources. The organization sometimes selects the development team and hands, such team, over to the product managers. This might create the problem of limited resources required for the product development process. The product managers have to work with the limited resources that they are provided. They have to develop the product with limited resources within the deadline.
+  Another problem that the product managers face is they have to **work with limited resources.** The organization sometimes selects the development team and hands, such team, over to the product managers. This might create the problem of limited resources required for the product development process. The product managers have to work with the limited resources that they are provided. They have to develop the product with limited resources within the deadline.
 
 - **Sometimes, no freedom to choose a team**
   
-  Sometimes, the product managers have to work with the development team provided by the organization. The choice of product managers is not considered sometimes. The product managers have to work hard to collaborate and communicate with the new team. It costs time to know the working style of the development team and sometimes have to compromise.
+  Sometimes, the product managers have to work with the development team provided by the organization. The choice of product managers is not considered sometimes. The product managers have to work hard to **collaborate and communicate with the new team.** It costs time to know the working style of the development team and sometimes have to compromise.
 
 - **High workload** 
   
@@ -198,7 +198,7 @@ If you want to be a product manager then you need to have different characterist
 
 - **Leadership** 
   
-  The most important characteristic that the product managers should possess is leadership. They should be able to lead a team successfully. It is not easy to lead a team.
+  The most important characteristic that the product managers should possess is leadership. They should be able to **lead a team successfully.** It is not easy to lead a team.
   
   The product managers should understand the team members and their working style, behavior, and so on. They should build a good relationship with the team members so that they can trust each other. 
   
@@ -216,7 +216,7 @@ If you want to be a product manager then you need to have different characterist
 
 - **Teamwork** 
   
-  The product managers should know working alone cannot make a product successful. They should understand the value of teamwork and must be able to lead a team successfully. If a product fails due to the lack of teamwork, then the product managers should take responsibility. So, the product managers should develop team spirit within the team members to make the product successful.
+  The product managers should know working alone cannot make a product successful. They should understand the value of teamwork and must be able to lead a team successfully. If a product fails due to the lack of teamwork, then the product managers should take responsibility. So, the product managers should **develop team spirit** within the team members to make the product successful.
 
 - **Trust** 
   
@@ -224,7 +224,7 @@ If you want to be a product manager then you need to have different characterist
 
 - **Problem-solving**
   
-  The problems may occur at any time at any place. The problems may occur before and after product development. The product managers should be ready to solve the problems that may arise as soon as possible. The product managers should have a problem-solving attitude. The product managers should be ready to solve problems as they might arise at any time.
+  The problems may occur at any time at any place. The problems may occur before and after product development. The product managers should be **ready to solve the problems** that may arise as soon as possible. The product managers should have a problem-solving attitude. The product managers should be ready to solve problems as they might arise at any time.
 
 - **Empathy** 
   
@@ -232,7 +232,7 @@ If you want to be a product manager then you need to have different characterist
   
   The product managers should show empathy for team members as they might face different problems. Product managers need to understand that they also need a balance between work and their daily life. The product managers should communicate with them and ask if they have any problems and solve their problems. 
   
-  So, the product managers should show empathy for every people involved in product development.
+  So, the product managers should **show empathy** for every people involved in product development.
 
 - **No bias or favoritism**
   
@@ -260,7 +260,7 @@ Every product adds value to an organization. Products are the lifeline of any bu
 
 - **Product roadmap**
   
-  Product roadmap is a summary of the product’s vision, goals, milestones, and deliverables. Product roadmaps help to develop product strategy. It helps to know what you are building and why you are building. The product roadmap helps to communicate the product’s vision and strategy to every member involved in the product development process. It helps to know where you are heading and helps in developing strategies to accomplish goals, milestones, and deliverables.
+  Product roadmap is a summary of the product’s vision, goals, milestones, and deliverables. Product roadmaps help to develop product strategy. It helps to know what you are building and why you are building. The product roadmap helps to communicate the product’s vision and strategy to every member involved in the product development process. It helps to know where you are heading and helps in developing strategies to **accomplish goals, milestones, and deliverables.**
 
 - **Prioritize tasks** 
   
@@ -284,4 +284,4 @@ Product management helps to understand customer needs and helps to develop a pro
 
 So, we can say that the organization cannot exist without product management.
 
-Hope this article helped you.
+I hope this article helped you.
