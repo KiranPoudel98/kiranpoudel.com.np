@@ -64,7 +64,7 @@ Once you paste the code and upload it to your website’s root directory, Google
 
 ##  Set up Google Analytics on Wordpress Site
  
-**Repeat the same step up to 7 as above and copy the given gtag.js script and, then do as instructed below.**
+**Repeat the same step up to 7 as above and copy the given gtag.js script as given in above step 8, and then do as instructed below.**
 
 **Step 9:** Now, go to your **WordPress Dashboard.**
 
@@ -82,7 +82,7 @@ Step 11: Now, search for Header and Footer Plugin and install any one and activa
 
 ![HeadersandFootersPlugin](/assets/images/posts/how-to-set-up-google-analytics/header-script.png "Headers and Footers Plugin")
 
-Google Analytics has been set up on your WordPress site. 
+Google Analytics now has been set up on your WordPress site. 
 
 You can also **check whether Google Analytics is working or not**. You can **click the “Send Test Traffic” button** as shown below. It will redirect you to your website and then click on any of your posts or just navigate your website.
 
