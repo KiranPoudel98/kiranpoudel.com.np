@@ -82,7 +82,7 @@ Some of the benefits of using Google Analytics are:
 
 You must use this powerful tool at all costs.
 
-**Note:** If you want to set up Google Analytics on your website easily, please go through this link: How to set up Google Analytics on your website?
+**Note:** If you want to set up Google Analytics on your website easily, I have written an article on it: <a href= "https://kiranpdl.com.np/seo/how-to-setup-google-analytics/" target="_blank">How to set up Google Analytics on your website?</a>
 
 ![GoogleAnalytics](/assets/images/posts/8-free-seo-tools-by-google/google-analytics.png "Google Analytics")
 

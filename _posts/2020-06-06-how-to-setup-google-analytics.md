@@ -20,7 +20,7 @@ last_modified_at: 2020-06-06
 
 <b>--------------------------------------------------------------------------------------------------------------------------------</b>
 
-You probably know how important it is to set up Google Analytics for your website since it helps you to analyze traffic and user behavior on your website. So in this article, I will be showing how to set up up Google Analytics on your website. 
+You probably know how important it is to set up Google Analytics on your website since it helps you to analyze traffic and user behavior on your website. So in this article, I will be showing you how to set up Google Analytics on your website. 
 
 Just follow the simple and easy steps as given below. Anyone can set up Google Analytics easily once going through this post. This will help bloggers who have just started or are going to start their blogging journey.
 
@@ -66,13 +66,13 @@ Once you paste the code and upload it to your website’s root directory, Google
  
 **Repeat the same step up to 7 as above and copy the given gtag.js script and, then do as instructed below.**
 
-**Step 9:** Now, go to your **Wordpress Dashboard.**
+**Step 9:** Now, go to your **WordPress Dashboard.**
 
 **Step 10:** Go to **Plugins** and click **Add New.**
 
 ![WordPressDashboard](/assets/images/posts/how-to-set-up-google-analytics/plugins.png "WordPress Dashboard")
 
-Step 11: Now, search for Header and Footer Plugin and install and activate it. (I am using **Insert Headers and Footers plugin by WPBeginner**)		
+Step 11: Now, search for Header and Footer Plugin and install any one and activate it. (I am using **Insert Headers and Footers plugin by WPBeginner**)		
 
 **Step 12:** Now, again on the Dashboard, hover over or click the **Settings**, and click **Headers and Footers Plugin.** 
 
