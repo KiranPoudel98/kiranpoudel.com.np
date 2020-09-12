@@ -119,7 +119,7 @@ It has many benefits like:
 - It helps to fix indexing problems.
 - And, many more.
 
-Bu sure to use this tool.
+Be sure to use this tool.
 
 ![GoogleSearchConsole](/assets/images/posts/8-free-seo-tools-by-google/google-search-console.png "Google Search Console")
  
