@@ -84,7 +84,7 @@ Other **additional roles and responsibilities** of the product managers are:
 
 - **Customer needs definition**
   
-  The product managers communicate with the customer and identify their needs and requirements. Then the product managers** develop plans that define the customer’s needs and requirements.** As a result, the development team develops the product as planned. So, the product managers should estimate cost and schedule the software development process.
+  The product managers communicate with the customer and identify their needs and requirements. Then the product managers develop plans that define the customer’s needs and requirements. As a result, the development team develops the product as planned. So, the product managers should estimate cost and schedule the software development process.
 
 - **Requirements development** 
   
