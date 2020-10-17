@@ -1,5 +1,5 @@
 ---
-title: Best Content Sharing Platforms To Increase Your Blog’s Traffic
+title: 3 Best Content Sharing Platforms To Increase Your Blog’s Traffic
 categories: Content Marketing
 excerpt: List of of best platforms to share your blog posts
 keywords: content sharing platforms
@@ -43,7 +43,7 @@ I recently started my blog website and I was sometimes frustrated by not getting
 
 I am happy with the results from these platforms so far. I think I have talked too much, so let’s start the main motive of this blog post. So, here is a list of showing the best platforms to share your blog posts.
 
-## Best content sharing platforms
+## Best Content Sharing Platforms
 
 ### <a href="https://hackernoon.com/" target="_blank">Hackernoon</a>
 
