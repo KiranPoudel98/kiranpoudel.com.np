@@ -9,14 +9,16 @@
 />
 
 <!-- Open Graph / Facebook -->
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://kiranpdl.com.np/" />
-<meta property="og:title" content="Personal Blog | Kiran Poudel" />
-<meta
-  property="og:description"
-  content="Get amazing content related to SEO, content writing, and many more."
-/>
-<meta property="og:image" content="/assets/images/favicon.ico" />
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:image" content="{{ site.url }}/images/{{ page.image }}">
+
+<meta property="og:image:width" content="637" />
+<meta property="og:image:height" content="403" />
 
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image" />
