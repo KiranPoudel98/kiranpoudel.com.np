@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: kiranpdl.com.np
+Token: f5184d5cc4238749c76be3be35e228f1a4eee37461b6b7b68a03e22556cc374a
