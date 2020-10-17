@@ -77,7 +77,7 @@ Its monthly visitors count is 53,000+. It might not be as huge as Hackernoon, bu
 
 ### <a href="https://www.pinterest.com/" target="_blank">Pinterest</a>
 
-Every one might have heard about Pinterest at least once. Being one of the youngest social media platforms, it gained popularity right from the start that no other social media platforms got. It was the fastest social media platform in history to reach 10 million unique visitors. 
+Every one might have heard about Pinterest at least once. Being one of the youngest social media platforms, it gained popularity right from the start that no other social media platforms got. It was the fastest social media platform in history to reach <a href="https://sproutsocial.com/insights/pinterest-statistics/" target="_blank">10 million unique visitors</a>. 
 
 Pinterest is an image-centric platform because of which it gained popularity instantly. Who doesn’t love images? According to studies it is shown that people love images rather than plain content. People get more information from images rather than plain content.
 
@@ -85,7 +85,7 @@ Unlike any other platform you have ever seen, it is unique on its own. What diff
 
 Still, many businesses don’t use this platform as much as they use Facebook and YouTube. They are still unaware about the power of the platform. It is 3x more effective in generating leads than many other social media platforms.
 
-Its monthly visitor count is 668,000,000+ out of which 320 millions are active monthly users. 82 percent of weekly active users on Pinterest say they have bought products based on their brands’ content on the platform.
+Its monthly visitor count is 668,000,000+ out of which <a href="https://sproutsocial.com/insights/pinterest-statistics/" target="_blank">320 millions are active monthly users</a>. <a href="https://www.oberlo.com/blog/pinterest-statistics" target="_blank">82 percent of weekly active users</a> on Pinterest say they have bought products based on their brands’ content on the platform.
 
 Pinterest is definitely a platform to share your blog posts and boost traffic on your website.
 
