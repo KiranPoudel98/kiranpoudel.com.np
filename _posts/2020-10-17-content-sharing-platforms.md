@@ -89,7 +89,7 @@ Its monthly visitor count is 668,000,000+ out of which <a href="https://sproutso
 
 Pinterest is definitely a platform to share your blog posts and boost traffic on your website.
 
-In Conclusion
+**In Conclusion**
 
 Getting traffic on a website is what everyone hopes for.
 
