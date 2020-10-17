@@ -43,7 +43,7 @@ I am happy with the results from these platforms so far. I think I have talked t
 
 ## Best content sharing platforms
 
-### <a href="https://hackernoon.com/" targer="_blank">Hackernoon</a>
+### <a href="https://hackernoon.com/" target="_blank">Hackernoon</a>
 
 The first platform on my list is Hackernoon. It is my favorite and probably the best to share the blog posts(My Opinion). Don’t be confused about the name and you might be thinking from the name it should be for hackers and related to programming. It's not like that. Hackernoon is a great platform for any blogger who wants more and more people to know about their blog. It has millions of viewers and thousands of contributors.
 
